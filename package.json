@@ -1,0 +1,26 @@
+{
+  "name": "nextjsapp",
+  "version": "1.0.0",
+  "description": "An app made for learning basics in Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolaNovak/Next.jsApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikolaNovak/Next.jsApp/issues"
+  },
+  "homepage": "https://github.com/NikolaNovak/Next.jsApp#readme",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
